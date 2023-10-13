@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: 65a2836bcae0ba74093d2ee69362d872
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caiuboladefogo_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1920
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dc80884d75b094ba440c0e9e41d923
+      internalID: 17715257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1919
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9a9b78649ff843a1ea7a720838962
+      internalID: -1207366753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1918
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcee68597f643c448da05033d9ee586
+      internalID: 1514132125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1917
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdbd94e77cf8164abaea8173ce1d7b5
+      internalID: 554523689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_4
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1918
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb3a5ef13fb81c4c91918b358df6328
+      internalID: 2096778664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_5
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1919
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3778f0d8e7eb67f44a2b010aa99463eb
+      internalID: 931206759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_6
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1913
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde22305229adae4dbeb84ac1668a19e
+      internalID: 141024053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_7
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1913
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d779b037eea66409d95ec0dafea1d9
+      internalID: -2009996188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1657
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec89b9f68c98cc04b9f9fc427a4e1543
+      internalID: -117690050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1657
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5bfbeb93bccb745b85389d8d68fc98
+      internalID: 643374267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_10
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1656
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e38a34eaa06ea4baae018e901b3fa1
+      internalID: -632220616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_11
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1656
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e83065c4dc9719419e6e23c700380da
+      internalID: 1266656491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_12
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1656
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39060ef9c755e248b07defa2d7db580
+      internalID: -265186487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_13
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1656
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c5c16badd999f4da282145b694098b
+      internalID: -1094253017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_14
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1656
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13430cfe3b04c543a3629b1b30536a4
+      internalID: 909254478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_15
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1655
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dc153a4fb087d4eb764af54c5d1657
+      internalID: -137650318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1399
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dc41111659e9640acae28f0293366d
+      internalID: 668922004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1399
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec3b712d0299c0408a6504032cd97a9
+      internalID: -1053169647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1399
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c293d62d2e7f0c4ca351f3bcd041603
+      internalID: -2141706051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_19
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1400
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48a87bad24df8149811a76618051780
+      internalID: 722346143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_20
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1399
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9e96ae191f84248bae34d2dfa684de
+      internalID: -342216885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_21
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1399
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5746e93969d3604aafa1adcf8b748b3
+      internalID: -1129163317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_22
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1400
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3bdcd270c38794c971efd1f994d780
+      internalID: -1550891827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_23
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1400
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504b8b1123e156446bdad1fd1cf8e398
+      internalID: -1508883028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1144
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10313f428f987934288f0c2ec17bc4d1
+      internalID: 255643083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_25
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1144
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfac655110b19ec40a61f76e37f171ce
+      internalID: -178424762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_26
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1144
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7c20f589d223d41ac0a58c1ac3017c
+      internalID: -1897157997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_27
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1144
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec861d91001bb97498b060fb03360479
+      internalID: -1302607685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_28
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1144
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374016eaf6b95894cbdb59fe063108a2
+      internalID: -1850468748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_29
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1144
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6742f0b5120c4da42abb313ea33d0a0c
+      internalID: 1212947463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_30
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1144
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99b73a18a8b7694499c3a12b79ce235
+      internalID: 489410587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_31
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1144
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1888a5387fe3e5f4b8cae08450fb016e
+      internalID: -1185261984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 888
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd9dd6d838c65d41a2862b380df5c82
+      internalID: -107656301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 888
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6de44183c602444aa5495db7158f314
+      internalID: 185079500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_34
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 888
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307664bd5bce2214eb491d4966a4a685
+      internalID: 2017286690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_35
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 888
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445b4b537de22f5498f945ed0f6f6fb7
+      internalID: -594223866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_36
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 888
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134c590aee56f28479a070e4933ac8da
+      internalID: -1318871207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_37
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 888
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e162797d392c954cbfe67cae262f2ff
+      internalID: 912085950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_38
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 888
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bada031b8e88dc48a6d382981b271ac
+      internalID: 897456336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_39
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 889
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457f836bfe436b247b492c4b9490dfdd
+      internalID: 63509745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 634
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c45a72b4c1ca2b4994c59af04f7b7f3
+      internalID: -1288217631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 631
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4737eafdde61b4e40886f44adf6bf0a3
+      internalID: 752002188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_42
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 630
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ba0d6d008a4bc4cb189cd5961db150
+      internalID: -503903090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_43
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 631
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062fd86751ec34443a01c9efd44645e3
+      internalID: -227345817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_44
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 633
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189688094af95db4995e7636484b4c5a
+      internalID: -624955752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_45
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 633
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61e054075eb04d4fa244a713cd077fd
+      internalID: 275243971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_46
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 633
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a657583b965b5a45bb348f44c7a41a0
+      internalID: -84279531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_47
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 633
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b90d66dcac9a746be655653e05bfc5
+      internalID: 1208685989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_48
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 377
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe68a149d663d184fb6fce8f0a6e5d00
+      internalID: -216801259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_49
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 378
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3189474dcf5864da9c7c121635c006
+      internalID: 127855523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_50
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 378
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac5fb257cd8b9645ab264ee0f5fc258
+      internalID: -1932371719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_51
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 378
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e6b5cfde54f6a4f9b6dd6e1cf27ac7
+      internalID: 2012360544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_52
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 378
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e418591699ff747bee389affd0b250
+      internalID: 1548874786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_53
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 379
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee166ef471b0f498b766bfb844569e
+      internalID: -349774829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_54
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 379
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8631c3bd8e2c5194e8c2d4f11ab7c2ee
+      internalID: 1839628407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_55
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 380
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc773cadcc17944a58d60db21b0750
+      internalID: 397556355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 125
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9b79a1afd2aaa42981b6c1d79b30aa
+      internalID: 332322826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_57
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 125
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c30cfa2ff043746943cbd98296de0a
+      internalID: 1280398203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_58
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 126
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4176380621648c41908bf532e088f04
+      internalID: 1097902245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caiuboladefogo_59
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 127
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc0d8e68233e9445a2dfd4d31ef3971
+      internalID: -1143159204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      caiuboladefogo_0: 17715257
+      caiuboladefogo_1: -1207366753
+      caiuboladefogo_10: -632220616
+      caiuboladefogo_11: 1266656491
+      caiuboladefogo_12: -265186487
+      caiuboladefogo_13: -1094253017
+      caiuboladefogo_14: 909254478
+      caiuboladefogo_15: -137650318
+      caiuboladefogo_16: 668922004
+      caiuboladefogo_17: -1053169647
+      caiuboladefogo_18: -2141706051
+      caiuboladefogo_19: 722346143
+      caiuboladefogo_2: 1514132125
+      caiuboladefogo_20: -342216885
+      caiuboladefogo_21: -1129163317
+      caiuboladefogo_22: -1550891827
+      caiuboladefogo_23: -1508883028
+      caiuboladefogo_24: 255643083
+      caiuboladefogo_25: -178424762
+      caiuboladefogo_26: -1897157997
+      caiuboladefogo_27: -1302607685
+      caiuboladefogo_28: -1850468748
+      caiuboladefogo_29: 1212947463
+      caiuboladefogo_3: 554523689
+      caiuboladefogo_30: 489410587
+      caiuboladefogo_31: -1185261984
+      caiuboladefogo_32: -107656301
+      caiuboladefogo_33: 185079500
+      caiuboladefogo_34: 2017286690
+      caiuboladefogo_35: -594223866
+      caiuboladefogo_36: -1318871207
+      caiuboladefogo_37: 912085950
+      caiuboladefogo_38: 897456336
+      caiuboladefogo_39: 63509745
+      caiuboladefogo_4: 2096778664
+      caiuboladefogo_40: -1288217631
+      caiuboladefogo_41: 752002188
+      caiuboladefogo_42: -503903090
+      caiuboladefogo_43: -227345817
+      caiuboladefogo_44: -624955752
+      caiuboladefogo_45: 275243971
+      caiuboladefogo_46: -84279531
+      caiuboladefogo_47: 1208685989
+      caiuboladefogo_48: -216801259
+      caiuboladefogo_49: 127855523
+      caiuboladefogo_5: 931206759
+      caiuboladefogo_50: -1932371719
+      caiuboladefogo_51: 2012360544
+      caiuboladefogo_52: 1548874786
+      caiuboladefogo_53: -349774829
+      caiuboladefogo_54: 1839628407
+      caiuboladefogo_55: 397556355
+      caiuboladefogo_56: 332322826
+      caiuboladefogo_57: 1280398203
+      caiuboladefogo_58: 1097902245
+      caiuboladefogo_59: -1143159204
+      caiuboladefogo_6: 141024053
+      caiuboladefogo_7: -2009996188
+      caiuboladefogo_8: -117690050
+      caiuboladefogo_9: 643374267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
