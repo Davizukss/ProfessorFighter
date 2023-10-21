@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b5cce406ba506204e9c8d3e08f3f6963
+guid: f2cc4d995013d4c4ebd58de8cd5f5d75
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: idle_0
+      name: cabecaMarion_0
       rect:
         serializedVersion: 2
-        x: 103
-        y: 1917
-        width: 55
-        height: 87
+        x: 115
+        y: 1980
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,25 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 22f9cc22fb4fafc4d967295a9a0fcf45
-      internalID: -1923209723
-=======
-      spriteID: 4473949348e2625498ce914f076dd6be
-      internalID: 2094274197
->>>>>>> Stashed changes
+      spriteID: 934b0ef82b75b2046aa7a07fbc64a74f
+      internalID: 1971866914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_1
+      name: cabecaMarion_1
       rect:
         serializedVersion: 2
-        x: 359
-        y: 1917
-        width: 55
-        height: 87
+        x: 371
+        y: 1980
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,25 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 46d184333d409424fb27be50cd46e319
-      internalID: -708390648
-=======
-      spriteID: ebea03155a3cffd48857f494b4942382
-      internalID: -1134007384
->>>>>>> Stashed changes
+      spriteID: 9fd97d2303dfb7146b14c654cd81b128
+      internalID: -170063961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_2
+      name: cabecaMarion_2
       rect:
         serializedVersion: 2
-        x: 615
-        y: 1917
-        width: 55
-        height: 87
+        x: 627
+        y: 1980
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,25 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 88b7e928d395eeb4fb8ce410c6ca8fe7
-      internalID: -1118744710
-=======
-      spriteID: c13386a29d67b394991a4b09e57e1049
-      internalID: 202625110
->>>>>>> Stashed changes
+      spriteID: 5691be06838f7a04fa29ffd4ed2dc2ec
+      internalID: -825141188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_3
+      name: cabecaMarion_3
       rect:
         serializedVersion: 2
-        x: 871
-        y: 1917
-        width: 55
-        height: 86
+        x: 883
+        y: 1980
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,25 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: e121718a061150d4caf385ddeaf7ad6e
-      internalID: 146886324
-=======
-      spriteID: ce6cd606b08209d468c56d7aaeaaeb6e
-      internalID: -887056829
->>>>>>> Stashed changes
+      spriteID: 1fb86fed5628e424c87fbbb3886f0aef
+      internalID: 1133958252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_4
+      name: cabecaMarion_4
       rect:
         serializedVersion: 2
-        x: 1127
-        y: 1917
-        width: 55
-        height: 86
+        x: 1139
+        y: 1980
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,25 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 8dbeed378e3ea184e8ffa1fee0f901dd
-      internalID: -1112596024
-=======
-      spriteID: f6a0c448b5ea2eb40805b50f9455874d
-      internalID: 1340807409
->>>>>>> Stashed changes
+      spriteID: 500478791f424314bb08494d30c71ca5
+      internalID: -872371252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_5
+      name: cabecaMarion_5
       rect:
         serializedVersion: 2
-        x: 1384
-        y: 1917
-        width: 54
-        height: 86
+        x: 1395
+        y: 1980
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,25 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 93ef2d4bfec8e8d46a491d234581b622
-      internalID: 49609216
-=======
-      spriteID: 682ffb6fd2a6fa54bb7191c974980da7
-      internalID: -1945122101
->>>>>>> Stashed changes
+      spriteID: be540a540893085459ff99f6abf95656
+      internalID: 1700402948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_6
+      name: cabecaMarion_6
       rect:
         serializedVersion: 2
-        x: 1640
-        y: 1917
-        width: 54
-        height: 85
+        x: 1651
+        y: 1980
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,25 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 33e7247e7aa985d47b5486335d7800e4
-      internalID: -2133578802
-=======
-      spriteID: 920c7606b230cb94eb2f5b9c66df9e17
-      internalID: 204200030
->>>>>>> Stashed changes
+      spriteID: 5521fff674c1eaf4aac8cb0733107946
+      internalID: -1008442217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_7
+      name: cabecaMarion_7
       rect:
         serializedVersion: 2
-        x: 1896
-        y: 1917
-        width: 54
-        height: 85
+        x: 1907
+        y: 1980
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,25 +271,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 88794f4048460304b9d0a5d1946f1e05
-      internalID: 296920434
-=======
-      spriteID: 437631bf9f6e12c46b8a25af3536f7e0
-      internalID: 1730165136
->>>>>>> Stashed changes
+      spriteID: e3689276ad6757d4e96495d38b3b648d
+      internalID: -1151638382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_8
+      name: cabecaMarion_8
       rect:
         serializedVersion: 2
-        x: 105
-        y: 1661
-        width: 53
-        height: 85
+        x: 115
+        y: 1724
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,25 +292,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: c1fd056d41f7be046ad867521461b0a9
-      internalID: -1585643801
-=======
-      spriteID: 5573412412b6d0e4293d1136c50dbad0
-      internalID: -1044440730
->>>>>>> Stashed changes
+      spriteID: 8bcf33edaf6e03f459557aeb6f9be934
+      internalID: -297449579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_9
+      name: cabecaMarion_9
       rect:
         serializedVersion: 2
-        x: 361
-        y: 1661
-        width: 54
-        height: 84
+        x: 371
+        y: 1724
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -358,25 +313,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 2decd7602aa7e0b4694705554a931402
-      internalID: -145462462
-=======
-      spriteID: bf619090442ea8643bac51e49fddc058
-      internalID: 511312485
->>>>>>> Stashed changes
+      spriteID: 75a29ac45cf34e14894ba88da8760302
+      internalID: 1269443324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_10
+      name: cabecaMarion_10
       rect:
         serializedVersion: 2
-        x: 617
-        y: 1661
-        width: 54
-        height: 84
+        x: 627
+        y: 1724
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,25 +334,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 38df2208a52de4245b908b9aa4e86c91
-      internalID: -643699914
-=======
-      spriteID: 0e7335fa4f98e3f41b8c7332292624af
-      internalID: 1168715939
->>>>>>> Stashed changes
+      spriteID: 07a7f504324b1d74e9c4d5dcff9aaad9
+      internalID: 744554794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_11
+      name: cabecaMarion_11
       rect:
         serializedVersion: 2
-        x: 873
-        y: 1661
-        width: 54
-        height: 84
+        x: 883
+        y: 1724
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,25 +355,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: ac3670e1284e8d4488cea1c20ddc80f3
-      internalID: 309395832
-=======
-      spriteID: ffb3c810c22853b44a993088b7743428
-      internalID: 1431879280
->>>>>>> Stashed changes
+      spriteID: cecd28e61323c214a8291e7e667c6641
+      internalID: 1989392609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_12
+      name: cabecaMarion_12
       rect:
         serializedVersion: 2
-        x: 1129
-        y: 1661
-        width: 54
-        height: 84
+        x: 1139
+        y: 1724
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,25 +376,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 67a1c2e7167705a4cbaf8c6c4e56bc66
-      internalID: 579394055
-=======
-      spriteID: 6d25849a0f778cd4191266106646d3e8
-      internalID: 739774717
->>>>>>> Stashed changes
+      spriteID: 320a84019edfe3e4cb6ee7e310ad8230
+      internalID: 381709411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_13
+      name: cabecaMarion_13
       rect:
         serializedVersion: 2
-        x: 1385
-        y: 1661
-        width: 55
-        height: 84
+        x: 1395
+        y: 1724
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,25 +397,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 79a54b8c0566aa54da79209949cf73a2
-      internalID: 155290238
-=======
-      spriteID: 1ee19e79e57f8494da7f287ff5c9e1ed
-      internalID: 2079222445
->>>>>>> Stashed changes
+      spriteID: c17cc0358297bd848b130acb2cf66289
+      internalID: 589228702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_14
+      name: cabecaMarion_14
       rect:
         serializedVersion: 2
-        x: 1641
-        y: 1661
-        width: 55
-        height: 83
+        x: 1651
+        y: 1724
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -488,25 +418,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: c5714efb6115b9045a30bd93f29c0048
-      internalID: 825357636
-=======
-      spriteID: d0ca223fabfb1d84792b37cf527a0e91
-      internalID: 1415585733
->>>>>>> Stashed changes
+      spriteID: 379cc004c188797478b2acbcfd110583
+      internalID: 1979601911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_15
+      name: cabecaMarion_15
       rect:
         serializedVersion: 2
-        x: 1897
-        y: 1661
-        width: 55
-        height: 84
+        x: 1907
+        y: 1724
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -514,25 +439,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 26db127aa6372644ba98fe176d9da021
-      internalID: -268938775
-=======
-      spriteID: acff4308f9af21640be2fe43642ae523
-      internalID: -1961919053
->>>>>>> Stashed changes
+      spriteID: 140534e8c75d0db4b9c1a3b6d1ee7319
+      internalID: 924501427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_16
+      name: cabecaMarion_16
       rect:
         serializedVersion: 2
-        x: 105
-        y: 1405
-        width: 55
-        height: 84
+        x: 115
+        y: 1468
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -540,25 +460,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 4af6da6b05af67f42be7c2a431a71d7a
-      internalID: -1055517475
-=======
-      spriteID: 8064da5469983644f94d238cb5e5fcf1
-      internalID: -175955458
->>>>>>> Stashed changes
+      spriteID: ff82de784a2202145872c5dfe1206bb7
+      internalID: 796784648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_17
+      name: cabecaMarion_17
       rect:
         serializedVersion: 2
-        x: 361
-        y: 1405
-        width: 55
-        height: 84
+        x: 371
+        y: 1468
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,25 +481,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: f12d79c58afcbe146ab89b0eac0af702
-      internalID: -1899868209
-=======
-      spriteID: bf2058f6a077c024594475fc0f5a0da5
-      internalID: 486826404
->>>>>>> Stashed changes
+      spriteID: 940b70cae8c80e54ca1a76589761ff1a
+      internalID: -184575538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_18
+      name: cabecaMarion_18
       rect:
         serializedVersion: 2
-        x: 617
-        y: 1405
-        width: 55
-        height: 84
+        x: 627
+        y: 1468
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -592,25 +502,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: cf9d0130f886c9a4fa87d6579cfd776d
-      internalID: 828691041
-=======
-      spriteID: 1c8fb07e9814d164a9cc306bf340c149
-      internalID: -844861527
->>>>>>> Stashed changes
+      spriteID: c118a3b6d614a794581f4553fc479d8f
+      internalID: -1531935833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_19
+      name: cabecaMarion_19
       rect:
         serializedVersion: 2
-        x: 873
-        y: 1405
-        width: 55
-        height: 84
+        x: 883
+        y: 1468
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -618,25 +523,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: b3e4597e51a78e146943057db5eca6a4
-      internalID: -1681851585
-=======
-      spriteID: 56a8a58f8792dbd4aa6ae117c3a36a1e
-      internalID: -1435280417
->>>>>>> Stashed changes
+      spriteID: 3c7ff19899666424a876c1b2822a6d46
+      internalID: 277939284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_20
+      name: cabecaMarion_20
       rect:
         serializedVersion: 2
-        x: 1128
-        y: 1405
-        width: 55
-        height: 85
+        x: 1139
+        y: 1468
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -644,25 +544,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 9d41bb9e3c0e7c040b186e9db15f7032
-      internalID: -530036675
-=======
-      spriteID: e06f2eff939b09747b036ae9fc939aab
-      internalID: 1484427051
->>>>>>> Stashed changes
+      spriteID: 00c970d66b4f04d4ab8b0e78b86c3145
+      internalID: 1438017599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_21
+      name: cabecaMarion_21
       rect:
         serializedVersion: 2
-        x: 1384
-        y: 1405
-        width: 55
-        height: 85
+        x: 1395
+        y: 1468
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,25 +565,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 29308fd74aaa18f469b2bee87108a360
-      internalID: 227484791
-=======
-      spriteID: 7d39fd039e736454da5542d94ed939b4
-      internalID: -27436113
->>>>>>> Stashed changes
+      spriteID: 5627a13bf73591042912ebcd05cd9f4b
+      internalID: -1172501356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_22
+      name: cabecaMarion_22
       rect:
         serializedVersion: 2
-        x: 1640
-        y: 1405
-        width: 55
-        height: 86
+        x: 1651
+        y: 1468
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,25 +586,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: d3da6688d5f92ec42b53d43cecc26fe7
-      internalID: -1733240256
-=======
-      spriteID: 0ad388fb20ef97342a0315df6b429255
-      internalID: -487603058
->>>>>>> Stashed changes
+      spriteID: 98eccc945c7e22f49b40297d4001d52d
+      internalID: 216054321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_23
+      name: cabecaMarion_23
       rect:
         serializedVersion: 2
-        x: 1896
-        y: 1405
-        width: 55
-        height: 86
+        x: 1907
+        y: 1468
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,25 +607,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 3f14950c95690314ab6fa79382e177c8
-      internalID: 237757492
-=======
-      spriteID: 454b4cd0e8b9b294bb3fe321eb2b24a3
-      internalID: -1480385125
->>>>>>> Stashed changes
+      spriteID: 22c15af3a16f7ea43b6a04296a57f0e9
+      internalID: 1596548689
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_24
+      name: cabecaMarion_24
       rect:
         serializedVersion: 2
-        x: 103
-        y: 1149
-        width: 55
-        height: 86
+        x: 115
+        y: 1212
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -748,25 +628,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 2e26143a74cf3e349a9d028b0281cb6f
-      internalID: 67445072
-=======
-      spriteID: 1d7d8fdd45e87ba4c8d378e944377430
-      internalID: 498046625
->>>>>>> Stashed changes
+      spriteID: 64524c3932dcad046ae8a817433f7285
+      internalID: 1203699607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_25
+      name: cabecaMarion_25
       rect:
         serializedVersion: 2
-        x: 359
-        y: 1149
-        width: 55
-        height: 87
+        x: 371
+        y: 1212
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -774,25 +649,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 5d9913a8f0da96a4da63d86c100f55b8
-      internalID: 1833537262
-=======
-      spriteID: ba516900a3f43aa4cb79137a145664eb
-      internalID: -1577478520
->>>>>>> Stashed changes
+      spriteID: fb788b4886ae4ef4c943f0b491fbed08
+      internalID: -327510466
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_26
+      name: cabecaMarion_26
       rect:
         serializedVersion: 2
-        x: 615
-        y: 1149
-        width: 55
-        height: 87
+        x: 627
+        y: 1212
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -800,25 +670,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: b3e2e75860a8b8145b0a6a6e7b5ed8bd
-      internalID: 1533480807
-=======
-      spriteID: ec23f4c7ad9f83c478c0b11cb141bd23
-      internalID: -160608924
->>>>>>> Stashed changes
+      spriteID: c043ab735aa94c944b79538aba15e7b6
+      internalID: -1719747914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_27
+      name: cabecaMarion_27
       rect:
         serializedVersion: 2
-        x: 871
-        y: 1149
-        width: 55
-        height: 87
+        x: 883
+        y: 1212
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -826,25 +691,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: a5701e1e26b207e429193ba20946554a
-      internalID: 1610134442
-=======
-      spriteID: c16c4f3752cf18547ab25b00b38a2606
-      internalID: 459394897
->>>>>>> Stashed changes
+      spriteID: 811997d88260d4348ae46563413a5b0a
+      internalID: -241207540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_28
+      name: cabecaMarion_28
       rect:
         serializedVersion: 2
-        x: 1127
-        y: 1149
-        width: 55
-        height: 87
+        x: 1139
+        y: 1212
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -852,25 +712,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 87c6aa99a5f50934ba3cadc17decff68
-      internalID: 928695146
-=======
-      spriteID: c693743c68aa2ed46861b828a06bfff2
-      internalID: -1528152658
->>>>>>> Stashed changes
+      spriteID: d13396dc96032c14dbcc17933d8090cf
+      internalID: 1499212122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_29
+      name: cabecaMarion_29
       rect:
         serializedVersion: 2
-        x: 1383
-        y: 1149
-        width: 55
-        height: 87
+        x: 1395
+        y: 1212
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -878,25 +733,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: c5f069a94b0b12b449c1cea0912d602f
-      internalID: 1633522341
-=======
-      spriteID: a81efe0ef64d6044d998bbcaf007dd39
-      internalID: -1177424245
->>>>>>> Stashed changes
+      spriteID: a9e5fb62ac714854a852c903010d2b89
+      internalID: 1505433882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_30
+      name: cabecaMarion_30
       rect:
         serializedVersion: 2
-        x: 1639
-        y: 1149
-        width: 55
-        height: 87
+        x: 1651
+        y: 1212
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -904,25 +754,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: dcde3c3912002b34dba16dda6e9b67d0
-      internalID: -246475529
-=======
-      spriteID: c14016b6c6304c349ad474797f7c719c
-      internalID: -2114702110
->>>>>>> Stashed changes
+      spriteID: 192fbcbd3b377bb4796278001101cbfa
+      internalID: -53385572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_31
+      name: cabecaMarion_31
       rect:
         serializedVersion: 2
-        x: 1895
-        y: 1149
-        width: 55
-        height: 87
+        x: 1907
+        y: 1212
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -930,25 +775,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 2815f5af6ba5f9f42b5b8eb13172188c
-      internalID: 1273223717
-=======
-      spriteID: 5947bf8a4f5cff542885b9e072c417d9
-      internalID: -14907936
->>>>>>> Stashed changes
+      spriteID: 2ac5ed1015cc33f4ea62e621c3705d57
+      internalID: -1714198031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_32
+      name: cabecaMarion_32
       rect:
         serializedVersion: 2
-        x: 103
-        y: 893
-        width: 55
-        height: 87
+        x: 115
+        y: 956
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -956,25 +796,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 75eddca7f8acf5f4ca8a89612088712d
-      internalID: -1408802214
-=======
-      spriteID: 5d09bc9a8655641419d6467f2425ac45
-      internalID: -1286247898
->>>>>>> Stashed changes
+      spriteID: acecdf185a051f04d81c923bd6936091
+      internalID: -2038863021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_33
+      name: cabecaMarion_33
       rect:
         serializedVersion: 2
-        x: 359
-        y: 893
-        width: 55
-        height: 87
+        x: 371
+        y: 956
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -982,25 +817,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: 2d03efa6886ce0749856ad499068099b
-      internalID: 1395974942
-=======
-      spriteID: 1cdf9717bf26985468a4882381bbe0cf
-      internalID: -711193536
->>>>>>> Stashed changes
+      spriteID: 25deefb7f6366924c8abb87d5afbdc4d
+      internalID: -1524071156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_34
+      name: cabecaMarion_34
       rect:
         serializedVersion: 2
-        x: 615
-        y: 893
-        width: 55
-        height: 87
+        x: 627
+        y: 956
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1008,13 +838,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< Updated upstream
-      spriteID: a50710ac7837e6747b813d4570ef25dd
-      internalID: 90911977
-=======
-      spriteID: a3eff3e40f307dc4e8f77afcc8b961e5
-      internalID: 1567624712
->>>>>>> Stashed changes
+      spriteID: c86c203ac41a12a4f85d74b7990242ea
+      internalID: -1139480310
       vertices: []
       indices: 
       edges: []
@@ -1030,79 +855,41 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-<<<<<<< Updated upstream
-      idle_0: -1923209723
-      idle_1: -708390648
-      idle_10: -643699914
-      idle_11: 309395832
-      idle_12: 579394055
-      idle_13: 155290238
-      idle_14: 825357636
-      idle_15: -268938775
-      idle_16: -1055517475
-      idle_17: -1899868209
-      idle_18: 828691041
-      idle_19: -1681851585
-      idle_2: -1118744710
-      idle_20: -530036675
-      idle_21: 227484791
-      idle_22: -1733240256
-      idle_23: 237757492
-      idle_24: 67445072
-      idle_25: 1833537262
-      idle_26: 1533480807
-      idle_27: 1610134442
-      idle_28: 928695146
-      idle_29: 1633522341
-      idle_3: 146886324
-      idle_30: -246475529
-      idle_31: 1273223717
-      idle_32: -1408802214
-      idle_33: 1395974942
-      idle_34: 90911977
-      idle_4: -1112596024
-      idle_5: 49609216
-      idle_6: -2133578802
-      idle_7: 296920434
-      idle_8: -1585643801
-      idle_9: -145462462
-=======
-      idle_0: 2094274197
-      idle_1: -1134007384
-      idle_10: 1168715939
-      idle_11: 1431879280
-      idle_12: 739774717
-      idle_13: 2079222445
-      idle_14: 1415585733
-      idle_15: -1961919053
-      idle_16: -175955458
-      idle_17: 486826404
-      idle_18: -844861527
-      idle_19: -1435280417
-      idle_2: 202625110
-      idle_20: 1484427051
-      idle_21: -27436113
-      idle_22: -487603058
-      idle_23: -1480385125
-      idle_24: 498046625
-      idle_25: -1577478520
-      idle_26: -160608924
-      idle_27: 459394897
-      idle_28: -1528152658
-      idle_29: -1177424245
-      idle_3: -887056829
-      idle_30: -2114702110
-      idle_31: -14907936
-      idle_32: -1286247898
-      idle_33: -711193536
-      idle_34: 1567624712
-      idle_4: 1340807409
-      idle_5: -1945122101
-      idle_6: 204200030
-      idle_7: 1730165136
-      idle_8: -1044440730
-      idle_9: 511312485
->>>>>>> Stashed changes
+      cabecaMarion_0: 1971866914
+      cabecaMarion_1: -170063961
+      cabecaMarion_10: 744554794
+      cabecaMarion_11: 1989392609
+      cabecaMarion_12: 381709411
+      cabecaMarion_13: 589228702
+      cabecaMarion_14: 1979601911
+      cabecaMarion_15: 924501427
+      cabecaMarion_16: 796784648
+      cabecaMarion_17: -184575538
+      cabecaMarion_18: -1531935833
+      cabecaMarion_19: 277939284
+      cabecaMarion_2: -825141188
+      cabecaMarion_20: 1438017599
+      cabecaMarion_21: -1172501356
+      cabecaMarion_22: 216054321
+      cabecaMarion_23: 1596548689
+      cabecaMarion_24: 1203699607
+      cabecaMarion_25: -327510466
+      cabecaMarion_26: -1719747914
+      cabecaMarion_27: -241207540
+      cabecaMarion_28: 1499212122
+      cabecaMarion_29: 1505433882
+      cabecaMarion_3: 1133958252
+      cabecaMarion_30: -53385572
+      cabecaMarion_31: -1714198031
+      cabecaMarion_32: -2038863021
+      cabecaMarion_33: -1524071156
+      cabecaMarion_34: -1139480310
+      cabecaMarion_4: -872371252
+      cabecaMarion_5: 1700402948
+      cabecaMarion_6: -1008442217
+      cabecaMarion_7: -1151638382
+      cabecaMarion_8: -297449579
+      cabecaMarion_9: 1269443324
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
