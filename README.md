@@ -1,6 +1,6 @@
 # ProfessorFighter - Feira do Industrial
 
-!(logo.png)
+![](logo.png)
 
 ## Descrição
 
