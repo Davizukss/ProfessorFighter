@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,1267 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: morte_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1916
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed08a16866c3404a8967a05310c091c
+      internalID: -1428584197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1912
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c889147d948c2478a4285b393e5b5f
+      internalID: -1044050128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_2
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1909
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d2207f3f58a2745bc1c834cb266910
+      internalID: 2076145211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1907
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e23f962c6cb57439dddd9d2c71b091
+      internalID: -313562746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_4
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1906
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f094aea8bd876428f58e4911b5bbb5
+      internalID: 868888604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_5
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1905
+        width: 93
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8228587d7dc8130498ed000732717d48
+      internalID: 1834313137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_6
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1906
+        width: 95
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a5e00e95cd63d41824562000a4ee79
+      internalID: 356328276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_7
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1906
+        width: 94
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd7af97f7544348ad46a689ad72513
+      internalID: -1829571170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1650
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aad9410f13b41441954ac4a582fca06
+      internalID: 1755794627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1650
+        width: 92
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e724979e3491a43ba28f2abd789582
+      internalID: -522117735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_10
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1650
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eec178cb1ec6cd4dbe0d6c8afabefe8
+      internalID: 586892921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_11
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1650
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c9a8045c29c464c8f4faa30810d27c
+      internalID: -578830386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_12
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1650
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f200d52af759b154d82c6e1de4398868
+      internalID: 19156259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_13
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1650
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff4c6bff70bf9443b30a104f4fa176b
+      internalID: -1184428835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_14
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1650
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c139c972e74144a84f9631b1537eee
+      internalID: 1010227077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_15
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1650
+        width: 85
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4685c7fc19f047743b6f0105871189ef
+      internalID: 1869267506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1395
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b1226326ce7c44091ac4b8a72ed7cb
+      internalID: -651122528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1395
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a8fe8e397227c49b1075464a6a1da5
+      internalID: 1008253247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_18
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1395
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0317baa3c96cfc84199329a31110b626
+      internalID: 1858687256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_19
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1395
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7717eb230bc2c014d8a4b775a0fb5723
+      internalID: 1982506560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_20
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1395
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08281a768a1c85f47adadf357d059301
+      internalID: -1415328332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_21
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1396
+        width: 76
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7540290588274343bc949aecef5155a
+      internalID: 395544226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_22
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1396
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bea3510a8e9da44aeff470cab13b8f
+      internalID: 319388452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_23
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1397
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cd2497302c7954eacf312f5d0ce9e4
+      internalID: 158322913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1141
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c3ce0420f6dea41838049e69d20faf
+      internalID: 1669597845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1141
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ffcc776a66df64187ecec502b85a2c
+      internalID: -831764646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_26
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1142
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a87c4d23530f044aef497e7dca607a
+      internalID: -1852960037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_27
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1142
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576b85e83bce9d9408293e1e1b215651
+      internalID: 83281443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_28
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1142
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ca6e9d323279a4ea8bbe4d35e8bbee
+      internalID: 533612396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_29
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1143
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7259ebe74ad3ffd478609d7e0a42b87e
+      internalID: 1908204004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_30
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1143
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6879653d003fed0408c912a863b9785b
+      internalID: 480616008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_31
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1144
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e8341cc323c8d458bfbec187f26013
+      internalID: -2121705652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 888
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc8ac026e488e140976a7b5b36a741c
+      internalID: -1590914601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_33
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 888
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdfc181b22670a40af9b23c9f620c5d
+      internalID: 1134936754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_34
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 889
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751c200ea538d8749bf8aaf4a4736ba1
+      internalID: -1192865858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_35
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 882
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1b617f4d87a884d9ec2e90343fc95a
+      internalID: 1917011681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_36
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 879
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a7b6ea3ea90dd419f4e0556de647e2
+      internalID: 107777317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_37
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 880
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314ecdc4dd671a44a926fe5c7577c898
+      internalID: 1304191375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_38
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 885
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4682f55e907fe4ab0982085785fdba
+      internalID: -468112673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_39
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 892
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ab7c6b5136b0a45a279a0f9a3302c0
+      internalID: 1718599427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 636
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29d0ed064c3ff0409fc13649ac5b570
+      internalID: 1292720158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 636
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0f99f2a3cfa7f438f564724d0ddf06
+      internalID: 1786280877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_42
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 636
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991a584fb0066554e9e959598e69dec0
+      internalID: -1281207392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_43
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 637
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea07147e4cd0ee44895b3c34ae1001f3
+      internalID: 772036384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_44
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 637
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49286e6f91422748885a242c8881765
+      internalID: 1874130613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_45
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 637
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3379ae0c92e13d4c9ff8023e42ff55b
+      internalID: 1424638225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_46
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 637
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906de65931cc4cb449652162be490b56
+      internalID: -1237296615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_47
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 637
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0149edb113f83564aac8c12fe036faa6
+      internalID: -2128961003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 381
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a12f03cfb1d0d342a55b3bd140f66c6
+      internalID: -1874851021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_49
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 381
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cd4f95415ee7d499d00b3b7bdd58ec
+      internalID: -2130557546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_50
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 382
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e0d3cf1783a8469cefa0bb68ffa8f
+      internalID: -1531448182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_51
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 382
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79813a103ae622243adb8a3e56640913
+      internalID: 715828522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_52
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 382
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042aeb2a1d615a940acc3a7063d69e21
+      internalID: 1787422191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_53
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 382
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017f23600cb59b14388c712299efd9e6
+      internalID: 1460135470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_54
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 382
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a136c6f5cbda94c8e8a5bb9dbfbfb0
+      internalID: 1744760941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_55
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 382
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb22cb997ee193243aa3fc371f77f71b
+      internalID: 1783115111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 127
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbcd5f9771be1d45bb4be4892d161c8
+      internalID: 904545771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 127
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7692f8e0865bd84ea373dcaed1b4fd4
+      internalID: -959799842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_58
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 127
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99387c8df0d1374baaa2f2319f21b42
+      internalID: -990686900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_59
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 127
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ac87dc58fb8304f89d7b48ed6dfa89
+      internalID: 1021924814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +1379,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      morte_0: -1428584197
+      morte_1: -1044050128
+      morte_10: 586892921
+      morte_11: -578830386
+      morte_12: 19156259
+      morte_13: -1184428835
+      morte_14: 1010227077
+      morte_15: 1869267506
+      morte_16: -651122528
+      morte_17: 1008253247
+      morte_18: 1858687256
+      morte_19: 1982506560
+      morte_2: 2076145211
+      morte_20: -1415328332
+      morte_21: 395544226
+      morte_22: 319388452
+      morte_23: 158322913
+      morte_24: 1669597845
+      morte_25: -831764646
+      morte_26: -1852960037
+      morte_27: 83281443
+      morte_28: 533612396
+      morte_29: 1908204004
+      morte_3: -313562746
+      morte_30: 480616008
+      morte_31: -2121705652
+      morte_32: -1590914601
+      morte_33: 1134936754
+      morte_34: -1192865858
+      morte_35: 1917011681
+      morte_36: 107777317
+      morte_37: 1304191375
+      morte_38: -468112673
+      morte_39: 1718599427
+      morte_4: 868888604
+      morte_40: 1292720158
+      morte_41: 1786280877
+      morte_42: -1281207392
+      morte_43: 772036384
+      morte_44: 1874130613
+      morte_45: 1424638225
+      morte_46: -1237296615
+      morte_47: -2128961003
+      morte_48: -1874851021
+      morte_49: -2130557546
+      morte_5: 1834313137
+      morte_50: -1531448182
+      morte_51: 715828522
+      morte_52: 1787422191
+      morte_53: 1460135470
+      morte_54: 1744760941
+      morte_55: 1783115111
+      morte_56: 904545771
+      morte_57: -959799842
+      morte_58: -990686900
+      morte_59: 1021924814
+      morte_6: 356328276
+      morte_7: -1829571170
+      morte_8: 1755794627
+      morte_9: -522117735
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

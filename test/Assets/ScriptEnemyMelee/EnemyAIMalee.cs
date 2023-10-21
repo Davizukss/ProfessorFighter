@@ -116,8 +116,8 @@ public class EnemyAIMelee : MonoBehaviour
     void AtacarJogador()
     {
         // Execute a animação ou lógica de ataque.
-        animate.SetTrigger("atacando");
-        Invoke("AtivaUlt", 5f);
+        animate.SetTrigger("ataque");
+        Invoke("AtivaUlt", 8f);
         // Reduza a vida do jogador.
         moves jogadorScript = jogador.GetComponent<moves>();
         if (jogadorScript != null)

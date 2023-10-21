@@ -43,7 +43,12 @@ public class atack : MonoBehaviour
             Collider2D[] atiraInimigos = Physics2D.OverlapCircleAll(ataquePoint.position, ataqueRange, Camadainimigo);
             foreach(Collider2D enemy in atiraInimigos)
             {
+                if(enemy.GetComponent<EnemyAI>() != null){
                 enemy.GetComponent<EnemyAI>().Danos(10);
+                }
+                if(enemy.GetComponent<EnemyAIMelee>() != null){
+                enemy.GetComponent<EnemyAIMelee>().Danos(10);
+                }
             }
        
     }
