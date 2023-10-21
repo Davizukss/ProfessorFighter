@@ -12,10 +12,6 @@ public class NewBehaviourScript : MonoBehaviour
     [SerializeField] private GameObject painelEdson;
     [SerializeField] private GameObject painelNanci;
     [SerializeField] private GameObject painelSelecao;
-    [SerializeField] private GameObject SelecAdriano;
-    [SerializeField] private GameObject SelecMarion;
-    [SerializeField] private GameObject SelecEdson;
-    [SerializeField] private GameObject SelecNanci;
 
     public void AbrirJogar()
     {
@@ -88,51 +84,6 @@ public class NewBehaviourScript : MonoBehaviour
         painelAdriano.SetActive(true);
         painelMarion.SetActive(true);
         painelEdson.SetActive(true);
-    }
-
-    public void AbrirSelectAdriano()
-    {
-        painelSelecao.SetActive(false);
-    }
-    public void FecharSelectAdriano()
-    {
-        painelSelecao.SetActive(true);
-    }
-    public void AbrirSelectMarion()
-    {
-        SelecAdriano.SetActive(false);
-        painelSelecao.SetActive(false);
-    }
-    public void FecharSelectMarion()
-    {
-        SelecAdriano.SetActive(true);
-        painelSelecao.SetActive(true);
-    }
-    public void AbrirSelectEdson()
-    {
-        SelecMarion.SetActive(false);
-        SelecAdriano.SetActive(false);
-        painelSelecao.SetActive(false);
-    }
-    public void FecharSelectEdson()
-    {
-        SelecMarion.SetActive(true);
-        SelecAdriano.SetActive(true);
-        painelSelecao.SetActive(true);
-    }
-    public void AbrirSelectNanci()
-    {
-        SelecEdson.SetActive(false);
-        SelecMarion.SetActive(false);
-        SelecAdriano.SetActive(false);
-        painelSelecao.SetActive(false);
-    }
-    public void FecharSelectNanci()
-    {
-        SelecEdson.SetActive(true);
-        SelecMarion.SetActive(true);
-        SelecAdriano.SetActive(true);
-        painelSelecao.SetActive(true);
     }
     public void Sair()
     {
