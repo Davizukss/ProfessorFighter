@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8706275bb62dffb48881a0543c69aa44
+guid: 8a281043de2b7f14ba089ef34b9fdcac
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,484 +110,379 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: walk_0
+      name: tiro_0
       rect:
         serializedVersion: 2
-        x: 95
-        y: 1921
-        width: 75
-        height: 80
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 150
+        y: 1947
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c9033e24235ceb4199111ed4ccbe94b
-      internalID: -38504119
+      spriteID: d6ff2907e9f65d24b9c9dd0acf5154e9
+      internalID: -1969759220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_1
+      name: tiro_1
       rect:
         serializedVersion: 2
-        x: 351
-        y: 1922
-        width: 76
-        height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 403
+        y: 1950
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b8aeef3917b7b942ad4093deac67841
-      internalID: 1394916395
+      spriteID: 1151ffe3241cb4b489770bfaf1390b99
+      internalID: -2110821488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_2
+      name: tiro_2
       rect:
         serializedVersion: 2
-        x: 608
-        y: 1922
-        width: 75
-        height: 85
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 656
+        y: 1954
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39ba00571bf623c4db885112c078a897
-      internalID: -225722597
+      spriteID: 0c5badacada45d440ac186a9daa4441d
+      internalID: 1956757991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_3
+      name: tiro_3
       rect:
         serializedVersion: 2
-        x: 866
-        y: 1922
-        width: 73
-        height: 87
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 911
+        y: 1960
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cbca2c481e46ae4d9df90fa91ea346e
-      internalID: -1413579925
+      spriteID: 807fcc6322ff1fd46998a6f07b28c637
+      internalID: 1813683187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_4
+      name: tiro_4
       rect:
         serializedVersion: 2
-        x: 1124
-        y: 1920
-        width: 72
-        height: 92
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1166
+        y: 1966
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f37952f4d6dfcf479763ff242138907
-      internalID: 1001958531
+      spriteID: 8212cc23687149f48a0c05866f3662ee
+      internalID: 1858002672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_5
+      name: tiro_5
       rect:
         serializedVersion: 2
-        x: 1378
-        y: 1919
-        width: 71
-        height: 92
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1422
+        y: 1965
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a718030761ee3a4ea8cb28668940550
-      internalID: 453064877
+      spriteID: 01f004a5f9e97064db230dfb4982ac37
+      internalID: 1658797490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_6
+      name: tiro_6
       rect:
         serializedVersion: 2
-        x: 1631
-        y: 1919
-        width: 76
-        height: 91
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1679
+        y: 1961
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bdf4c64e40af414c8acff515c20e232
-      internalID: -1424640358
+      spriteID: d70892d618f82d745a56bfe83285a6c4
+      internalID: -1706168934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_7
+      name: tiro_7
       rect:
         serializedVersion: 2
-        x: 1884
-        y: 1918
-        width: 77
-        height: 90
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1937
+        y: 1957
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bf0a7946fe0c69438b782d7139ceaa3
-      internalID: 342012640
+      spriteID: f28975eb91921cf4391a8703d09e88e5
+      internalID: 655552800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_8
+      name: tiro_8
       rect:
         serializedVersion: 2
-        x: 92
-        y: 1661
-        width: 78
-        height: 87
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 148
+        y: 1699
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db2946680f356964ebf1026cbba0339c
-      internalID: 636314836
+      spriteID: da8ef803b6b4f47468e47c62c03778dd
+      internalID: 624599296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_9
+      name: tiro_9
       rect:
         serializedVersion: 2
-        x: 349
-        y: 1661
-        width: 73
-        height: 84
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 407
+        y: 1697
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0248c8ae8f1a3d44b900a8dfbf7424e
-      internalID: -1656979366
+      spriteID: b0612f523c84e2b49839ba1c3362d142
+      internalID: 1311012962
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_10
+      name: tiro_10
       rect:
         serializedVersion: 2
-        x: 614
-        y: 1659
-        width: 65
-        height: 87
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 666
+        y: 1697
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 691c87abf8056354f965ffa06e8424e8
-      internalID: 1274543420
+      spriteID: e88cfc6c4df274947bf1a8180bcc0ba1
+      internalID: 586738521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_11
+      name: tiro_11
       rect:
         serializedVersion: 2
-        x: 880
-        y: 1662
-        width: 56
-        height: 84
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 914
+        y: 1699
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41f5b558c353eef4c809d097b1fc4fad
-      internalID: -1661165473
+      spriteID: 9b5254c70a858834e97bbb09a47cfb7d
+      internalID: 561599705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_12
+      name: tiro_12
       rect:
         serializedVersion: 2
-        x: 1130
-        y: 1664
-        width: 64
-        height: 85
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1164
+        y: 1701
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb96de0c2904b22448e740d7a995196d
-      internalID: 674907699
+      spriteID: 51842a1ff1202da4885e3c653003d5cb
+      internalID: 304436645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_13
+      name: tiro_13
       rect:
         serializedVersion: 2
-        x: 1383
-        y: 1667
-        width: 68
-        height: 85
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1418
+        y: 1702
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3cf8a35ba232e84bb82ecf3ee025bf7
-      internalID: 1772370094
+      spriteID: 1ce947c9093a97b45b51eb39907ce330
+      internalID: -1871666027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_14
+      name: tiro_14
       rect:
         serializedVersion: 2
-        x: 1639
-        y: 1665
-        width: 69
-        height: 89
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1673
+        y: 1703
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0549fb956a41aa4eb856b37a043ce50
-      internalID: -1535919078
+      spriteID: 94983f299c05a504db32f332d4688024
+      internalID: -1347851152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_15
+      name: tiro_15
       rect:
         serializedVersion: 2
-        x: 1896
-        y: 1665
-        width: 74
-        height: 92
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1928
+        y: 1704
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a717aea23e139747a3edf20a6b8abcb
-      internalID: 2049256006
+      spriteID: ee367730cc9265343b2adcb7ba5e7ca3
+      internalID: -1323563258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_16
+      name: tiro_16
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1408
-        width: 81
-        height: 92
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 135
+        y: 1449
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70db2d5af99c0b348b279adf9557fdf2
-      internalID: -709110779
+      spriteID: 64addd701c499ef448a1d624c4ee43d5
+      internalID: 1969256087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_17
+      name: tiro_17
       rect:
         serializedVersion: 2
-        x: 354
-        y: 1407
-        width: 86
-        height: 92
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 390
+        y: 1450
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 947f37cffa1fb194e9e5a9fe6601738c
-      internalID: -1043776838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_18
-      rect:
-        serializedVersion: 2
-        x: 611
-        y: 1406
-        width: 87
-        height: 92
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d9655adddd6035468a5b98cac5baf78
-      internalID: 945382129
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_19
-      rect:
-        serializedVersion: 2
-        x: 874
-        y: 1405
-        width: 56
-        height: 90
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 78877aa0d83f26042a4a59f6bb4b8b32
-      internalID: -1923182089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_20
-      rect:
-        serializedVersion: 2
-        x: 1136
-        y: 1407
-        width: 48
-        height: 84
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41e1a084243fcc84f940042aa5fe1ea1
-      internalID: -1510113529
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_21
-      rect:
-        serializedVersion: 2
-        x: 1379
-        y: 1407
-        width: 67
-        height: 84
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f31e5583071c03240a0625b18d0f5597
-      internalID: 552984899
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_22
-      rect:
-        serializedVersion: 2
-        x: 1631
-        y: 1409
-        width: 75
-        height: 80
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00f1ecd7f8205e2468121db128077323
-      internalID: 106314371
+      spriteID: 5f76b902a5d7caf4a98bb03c98d55f7d
+      internalID: 314254648
       vertices: []
       indices: 
       edges: []
@@ -603,29 +498,24 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      walk_0: -38504119
-      walk_1: 1394916395
-      walk_10: 1274543420
-      walk_11: -1661165473
-      walk_12: 674907699
-      walk_13: 1772370094
-      walk_14: -1535919078
-      walk_15: 2049256006
-      walk_16: -709110779
-      walk_17: -1043776838
-      walk_18: 945382129
-      walk_19: -1923182089
-      walk_2: -225722597
-      walk_20: -1510113529
-      walk_21: 552984899
-      walk_22: 106314371
-      walk_3: -1413579925
-      walk_4: 1001958531
-      walk_5: 453064877
-      walk_6: -1424640358
-      walk_7: 342012640
-      walk_8: 636314836
-      walk_9: -1656979366
+      tiro_0: -1969759220
+      tiro_1: -2110821488
+      tiro_10: 586738521
+      tiro_11: 561599705
+      tiro_12: 304436645
+      tiro_13: -1871666027
+      tiro_14: -1347851152
+      tiro_15: -1323563258
+      tiro_16: 1969256087
+      tiro_17: 314254648
+      tiro_2: 1956757991
+      tiro_3: 1813683187
+      tiro_4: 1858002672
+      tiro_5: 1658797490
+      tiro_6: -1706168934
+      tiro_7: 655552800
+      tiro_8: 624599296
+      tiro_9: 1311012962
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

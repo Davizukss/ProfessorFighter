@@ -119,10 +119,15 @@ public class EnemyAIMelee : MonoBehaviour
         animate.SetTrigger("ataque");
         Invoke("AtivaUlt", 8f);
         // Reduza a vida do jogador.
-        moves jogadorScript = jogador.GetComponent<moves>();
+        Melee jogadorScript = jogador.GetComponent<Melee>();
+        moves jogadorScript2 = jogador.GetComponent<moves>();
         if (jogadorScript != null)
         {
             jogadorScript.Dano(danoInimigo);
+        }
+        if (jogadorScript2 != null)
+        {
+            jogadorScript2.Dano(danoInimigo);
         }
     }
 
@@ -132,7 +137,7 @@ public class EnemyAIMelee : MonoBehaviour
         {
             // Reduz a vida do inimigo quando atingido por um projétil.
             animate.SetTrigger("tomodano");
-            Danos(30);
+            Danos(20);
 
             // Define o inimigo como atingido e inicia a contagem de tempo.
             hitByProjectile = true;

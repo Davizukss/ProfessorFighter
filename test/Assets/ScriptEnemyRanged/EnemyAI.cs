@@ -7,8 +7,8 @@ public class EnemyAI : MonoBehaviour
     public Transform Ult;
     public SpriteRenderer Projetil;
     
-    public int vida = 100;
-    private int vidaAtual = 100;
+    public int vida = 150;
+    private int vidaAtual = 150;
     public float tempo;
 
     public Image redbarEnemy;
@@ -122,13 +122,32 @@ public class EnemyAI : MonoBehaviour
         animate.SetTrigger("ataque");
         // Reduza a vida do jogador.
         Melee jogadorScript = jogador.GetComponent<Melee>();
+        moves jogadorScript2 = jogador.GetComponent<moves>();
         if (jogadorScript != null)
         {
             jogadorScript.Dano(danoInimigo);
         }
+        if (jogadorScript2 != null)
+        {
+            jogadorScript2.Dano(danoInimigo);
+        }
     }
 
 
+private void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.gameObject.CompareTag("projetil"))
+        {
+            animate.SetTrigger("tomodano");
+            Danos(20);
+            hitByProjectile = true;
+            timeSinceHit = 0f;
+            velocidade = 0;
+        }
+        else{
+            MoverParaJogador();
+        }
+    }
 
     public void Danos(int dano)
     {
