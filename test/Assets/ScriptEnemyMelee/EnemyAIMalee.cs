@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 
-public class EnemyAI : MonoBehaviour
+public class EnemyAIMelee : MonoBehaviour
 {
     public int vida = 100;
     private int vidaAtual = 100;
@@ -51,7 +51,7 @@ public class EnemyAI : MonoBehaviour
             // O jogador está dentro da distância de ataque.
             if (podeAtacar && Time.time - lastAttackTime >= tempoDeEsperaEntreAtaques)
             {
-                animate.SetTrigger("atacando");
+                animate.SetTrigger("ataque");
                 AtacarJogador();
 
                 lastAttackTime = Time.time;
@@ -117,6 +117,7 @@ public class EnemyAI : MonoBehaviour
     {
         // Execute a animação ou lógica de ataque.
         animate.SetTrigger("atacando");
+        Invoke("AtivaUlt", 5f);
         // Reduza a vida do jogador.
         moves jogadorScript = jogador.GetComponent<moves>();
         if (jogadorScript != null)
@@ -208,5 +209,8 @@ public class EnemyAI : MonoBehaviour
     private void Morte(){
         Destroy(gameObject);
 
+    }
+    public void AtivaUlt(){
+        animate.SetTrigger("ultando");
     }
 }
