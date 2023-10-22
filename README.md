@@ -28,10 +28,10 @@ Para executar o ProfessorFighter em sua máquina, siga estas etapas:
    Unity Hub
    ```
 
-3. ** Ou instale o Exe:**
+3. ** Or install Exe:**
 
    ```
-   install exe
+   O Arquivo executavel da aplicação está localizado na pasta "Jogar".
    ```
 
 4. **Inicie o jogo:**
