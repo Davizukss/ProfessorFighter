@@ -934,7 +934,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a9a9ca4cff5db34c85894703424849b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameOverScreen: {fileID: 0}
 --- !u!1 &121017613
 GameObject:
   m_ObjectHideFlags: 0
@@ -3922,7 +3921,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &489882709
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3962,7 +3961,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &522440336
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4521,7 +4520,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &659126525
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5401,7 +5400,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1619909909}
         m_TargetAssemblyTypeName: NewBehaviourScript, Assembly-CSharp
-        m_MethodName: AbrirEdson
+        m_MethodName: AdrianoVsEdson
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7334,7 +7333,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1619909909}
         m_TargetAssemblyTypeName: NewBehaviourScript, Assembly-CSharp
-        m_MethodName: AbrirMarion
+        m_MethodName: AdrianoVsMarion
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7466,7 +7465,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1619909909}
         m_TargetAssemblyTypeName: NewBehaviourScript, Assembly-CSharp
-        m_MethodName: AbrirNanci
+        m_MethodName: AdrianoVsNanci
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -8064,7 +8063,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1383853266
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8187,7 +8186,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1412884203
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9312,7 +9311,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1619909909}
         m_TargetAssemblyTypeName: NewBehaviourScript, Assembly-CSharp
-        m_MethodName: AbrirMarion
+        m_MethodName: AdrianoVsMarion
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -11467,7 +11466,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1619909909}
         m_TargetAssemblyTypeName: NewBehaviourScript, Assembly-CSharp
-        m_MethodName: AbrirEdson
+        m_MethodName: AdrianoVsMarion
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -11549,7 +11548,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -539, y: -390}
+  m_AnchoredPosition: {x: -588, y: -390}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1895335504
@@ -11640,7 +11639,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1901141019
 RectTransform:
   m_ObjectHideFlags: 0
@@ -12756,7 +12755,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2093054520
 RectTransform:
   m_ObjectHideFlags: 0

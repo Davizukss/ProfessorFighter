@@ -196,8 +196,33 @@ public class NewBehaviourScript : MonoBehaviour
         Debug.Log("Sair do Jogo");
         Application.Quit();
     }
-     public void AdrianoVsMarion()
+
+    public void AdrianoVsMarion()
     {
         SceneManager.LoadScene("AdrianoVsMarion");
     }
+    public void AdrianoVsEdson()
+    {
+        SceneManager.LoadScene("AdrianoVsEdson");
+    }
+    public void AdrianoVsNanci()
+    {
+        SceneManager.LoadScene("AdrianoVsNanci");
+    }
+
+    
+    public void MarionVsAdriano()
+    {
+        SceneManager.LoadScene("MarionVsAdriano");
+    }
+    public void MarionVsEdson()
+    {
+        SceneManager.LoadScene("MarionVsEdson");
+    }
+    public void MarionVsNanci()
+    {
+        SceneManager.LoadScene("MarionVsNanci");
+    }
+
+
 }

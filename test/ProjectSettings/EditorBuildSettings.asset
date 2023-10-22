@@ -11,4 +11,40 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 639edf159521bfa40ac4a446ce00e3df
+  - enabled: 1
+    path: Assets/Scenes/ScenesProntas/AdrianoVsMarion.unity
+    guid: d9c4ecbf8731e764996df8b4afb46d32
+  - enabled: 1
+    path: Assets/Scenes/ScenesProntas/AdrianoVsEdson.unity
+    guid: 23af6218401e4894a9f464e10eb58899
+  - enabled: 1
+    path: Assets/Scenes/ScenesProntas/AdrianoVsNanci.unity
+    guid: 2f8d0e6abd928e44ebb3dcef9e1a97ab
+  - enabled: 1
+    path: Assets/Scenes/ScenesProntas/EdsonVsAdriano.unity
+    guid: 99b838a9d59d57b48965bdc4c3ed5c4e
+  - enabled: 1
+    path: Assets/Scenes/ScenesProntas/EdsonVsMarion.unity
+    guid: 87472c6d73b91f04ebe1389e5b8990cf
+  - enabled: 1
+    path: Assets/Scenes/ScenesProntas/EdsonVsNanci.unity
+    guid: 90a22bf31c1895644928146cf33d4cb1
+  - enabled: 1
+    path: Assets/Scenes/ScenesProntas/MarionVsAdriano.unity
+    guid: 1e9750d4810736c41b6348da3daf9649
+  - enabled: 1
+    path: Assets/Scenes/ScenesProntas/MarionVsEdson.unity
+    guid: 9700a17dc6b70674e9f07ef8e10adf51
+  - enabled: 1
+    path: Assets/Scenes/ScenesProntas/MarionVsNanci.unity
+    guid: b3b3d033840828e4486d5a1d249720c6
+  - enabled: 1
+    path: Assets/Scenes/ScenesProntas/NanciVsAdriano.unity
+    guid: 4f6f717b133c4444084811632a92bf68
+  - enabled: 1
+    path: Assets/Scenes/ScenesProntas/NanciVsEdson.unity
+    guid: 945a600674c903b4f803a58298c026ec
+  - enabled: 1
+    path: Assets/Scenes/ScenesProntas/NanciVsMarion.unity
+    guid: e1a7f2e295fa07445b9ad720c730edc6
   m_configObjects: {}
