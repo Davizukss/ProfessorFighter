@@ -193,7 +193,6 @@ public class NewBehaviourScript : MonoBehaviour
 
     public void Sair()
     {
-        Debug.Log("Sair do Jogo");
         Application.Quit();
     }
 
@@ -223,6 +222,29 @@ public class NewBehaviourScript : MonoBehaviour
     {
         SceneManager.LoadScene("MarionVsNanci");
     }
-
-
+    
+    public void EdsonVsAdriano()
+    {
+        SceneManager.LoadScene("EdsonVsAdriano");
+    }
+    public void EdsonVsMarion()
+    {
+        SceneManager.LoadScene("EdsonVsMarion");
+    }
+    public void EdsonVsNanci()
+    {
+        SceneManager.LoadScene("EdsonVsNanci");
+    }
+    public void NanciVsAdriano()
+    {
+        SceneManager.LoadScene("NanciVsAdriano");
+    }
+    public void NanciVsMarion()
+    {
+        SceneManager.LoadScene("NanciVsMarion");
+    }
+    public void NanciVsEdson()
+    {
+        SceneManager.LoadScene("NanciVsEdson");
+    }
 }
