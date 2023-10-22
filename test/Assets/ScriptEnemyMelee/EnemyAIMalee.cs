@@ -221,7 +221,7 @@ public class EnemyAIMelee : MonoBehaviour
     }
     public void Vidacena()
     {
-        if (vida <= 0)
+        if (vidaAtual <= 0)
         {
             SceneManager.LoadScene("GameOver");
         }
