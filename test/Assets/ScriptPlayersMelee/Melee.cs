@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
-
+using UnityEngine.SceneManagement;
 
 public class Melee : MonoBehaviour
 {
@@ -40,6 +40,7 @@ public class Melee : MonoBehaviour
 
     void Update()
     {
+        Vidacena();
         if(vida <= 0){
             animate.SetTrigger("morto");
             Invoke("Morte", 0.7f);
@@ -146,6 +147,12 @@ public class Melee : MonoBehaviour
                 }
             }
     }
-
+public void Vidacena()
+    {
+        if (vida <= 0)
+        {
+            SceneManager.LoadScene("GameOver");
+        }
+    }
 
 }

@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
-
+using UnityEngine.SceneManagement;
 public class EnemyAIMelee : MonoBehaviour
 {
     public int vida = 100;
@@ -42,7 +42,8 @@ public class EnemyAIMelee : MonoBehaviour
     }
 
     void Update()
-    {
+{
+    Vidacena();
         // Verifique a distância entre o inimigo e o jogador.
         float distanciaParaJogador = Vector3.Distance(transform.position, jogador.position);
 
@@ -217,5 +218,12 @@ public class EnemyAIMelee : MonoBehaviour
     }
     public void AtivaUlt(){
         animate.SetTrigger("ultando");
+    }
+    public void Vidacena()
+    {
+        if (vida <= 0)
+        {
+            SceneManager.LoadScene("GameOver");
+        }
     }
 }

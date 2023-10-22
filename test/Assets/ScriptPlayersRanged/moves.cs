@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 
 public class moves : MonoBehaviour
@@ -38,6 +39,7 @@ public class moves : MonoBehaviour
 
     void Update()
     {
+        Vidacena();
         if(vida <= 0){
             animate.SetTrigger("morto");
             Invoke("Morte", 0.7f);
@@ -139,6 +141,13 @@ public class moves : MonoBehaviour
     private void Morte(){
             Destroy(gameObject);
             Destroy(this.gameObject);
+    }
+    public void Vidacena()
+    {
+        if (vida <= 0)
+        {
+            SceneManager.LoadScene("GameOver");
+        }
     }
 
 }

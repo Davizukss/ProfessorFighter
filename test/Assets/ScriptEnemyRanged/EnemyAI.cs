@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
-
+using UnityEngine.SceneManagement;
 public class EnemyAI : MonoBehaviour
 {
     public Transform Ult;
@@ -46,6 +46,7 @@ public class EnemyAI : MonoBehaviour
 
     void Update()
     {
+        Vidacena();
         // Verifique a distância entre o inimigo e o jogador.
         float distanciaParaJogador = Vector3.Distance(transform.position, jogador.position);
 
@@ -212,6 +213,13 @@ private void OnTriggerEnter2D(Collider2D col)
     private void Morte(){
         Destroy(gameObject);
 
+    }
+    public void Vidacena()
+    {
+        if (vida <= 0)
+        {
+            SceneManager.LoadScene("GameOver");
+        }
     }
  
 }
