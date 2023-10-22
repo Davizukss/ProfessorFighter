@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class NewBehaviourScript : MonoBehaviour
 {
@@ -194,5 +195,9 @@ public class NewBehaviourScript : MonoBehaviour
     {
         Debug.Log("Sair do Jogo");
         Application.Quit();
+    }
+     public void AdrianoVsMarion()
+    {
+        SceneManager.LoadScene("AdrianoVsMarion");
     }
 }
