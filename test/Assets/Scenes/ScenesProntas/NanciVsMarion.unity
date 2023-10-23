@@ -548,7 +548,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a9a9ca4cff5db34c85894703424849b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameOverScreen: {fileID: 0}
 --- !u!1 &128643926
 GameObject:
   m_ObjectHideFlags: 0
@@ -1256,11 +1255,11 @@ MonoBehaviour:
   redbarEnemy: {fileID: 1716027647}
   lifebarEnemy: {fileID: 128643928}
   japulou: 1
-  danoInimigo: 10
-  velocidade: 4.5
-  distanciaDeAtaque: 8
+  danoInimigo: 15
+  velocidade: 5
+  distanciaDeAtaque: 7
   tempoDeEsperaEntreAtaques: 2
-  timeToRecover: 3
+  timeToRecover: 2
 --- !u!1 &768179532
 GameObject:
   m_ObjectHideFlags: 0
@@ -2667,7 +2666,7 @@ MonoBehaviour:
   JaPodeUltar: 1
   tempoCooldownUlt: 5
   rb: {fileID: 1594276208}
-  moveSpeed: 5
+  moveSpeed: 4
   verificaChao: 1
   detectaChao: {fileID: 76465688}
   Chao:
@@ -2694,7 +2693,7 @@ MonoBehaviour:
     m_Bits: 64
   animator: {fileID: 1594276204}
   dano: 10
-  tempoCooldownAta: 0.8
+  tempoCooldownAta: 1.2
   JaPodeAta: 1
 --- !u!1 &1653832576
 GameObject:

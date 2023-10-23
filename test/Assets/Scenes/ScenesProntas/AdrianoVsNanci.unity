@@ -548,7 +548,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a9a9ca4cff5db34c85894703424849b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameOverScreen: {fileID: 0}
 --- !u!1 &128643926
 GameObject:
   m_ObjectHideFlags: 0
@@ -1261,7 +1260,7 @@ MonoBehaviour:
   danoInimigo: 10
   velocidade: 4
   distanciaDeAtaque: 8
-  tempoDeEsperaEntreAtaques: 3
+  tempoDeEsperaEntreAtaques: 2.5
   timeToRecover: 4
 --- !u!1 &726364666
 GameObject:
@@ -2551,13 +2550,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   atackando: 0
   ataquePoint: {fileID: 1041136720}
-  ataqueRange: 0.5
+  ataqueRange: 1.5
   Camadainimigo:
     serializedVersion: 2
     m_Bits: 64
   animator: {fileID: 1594276204}
   dano: 10
-  tempoCooldownAta: 0.3
+  tempoCooldownAta: 0.8
   JaPodeAta: 1
 --- !u!114 &1594276210
 MonoBehaviour:
@@ -2571,7 +2570,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6de6dee0829a4f84b8c668ac8a7a22a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  UltRange: 0.5
+  UltRange: 3
   Camadainimigo:
     serializedVersion: 2
     m_Bits: 64
@@ -2583,7 +2582,7 @@ MonoBehaviour:
   JaPodeUltar: 1
   tempoCooldownUlt: 5
   rb: {fileID: 1594276208}
-  moveSpeed: 5
+  moveSpeed: 4
   verificaChao: 0
   detectaChao: {fileID: 76465688}
   Chao:

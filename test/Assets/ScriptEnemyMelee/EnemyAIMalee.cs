@@ -223,7 +223,7 @@ public class EnemyAIMelee : MonoBehaviour
     {
         if (vidaAtual <= 0)
         {
-            SceneManager.LoadScene("GameOver");
+            SceneManager.LoadScene("GameWin");
         }
     }
 }

@@ -218,7 +218,7 @@ private void OnTriggerEnter2D(Collider2D col)
     {
         if (vidaAtual <= 0)
         {
-            SceneManager.LoadScene("GameOver");
+            SceneManager.LoadScene("GameWin");
         }
     }
  
