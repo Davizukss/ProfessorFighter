@@ -18,6 +18,13 @@ public class NewBehaviourScript : MonoBehaviour
     [SerializeField] private GameObject SelecEdson;
     [SerializeField] private GameObject SelecNanci;
 
+    [SerializeField] private GameObject ComJogar;
+
+    [SerializeField] private GameObject Lutem;
+    [SerializeField] private GameObject Um;
+    [SerializeField] private GameObject Dois;
+    [SerializeField] private GameObject Tres;
+
     [SerializeField] private GameObject Adriano;
     [SerializeField] private GameObject Edson;
     [SerializeField] private GameObject Marion;
@@ -33,8 +40,9 @@ public class NewBehaviourScript : MonoBehaviour
         Adriano.SetActive(false);
         Edson.SetActive(false);
         Nanci.SetActive(false);
+        ComJogar.SetActive(false);
+        
     }
-
     public void AbrirJogar()
     {
         DesabilitarPersonagens();
@@ -195,56 +203,157 @@ public class NewBehaviourScript : MonoBehaviour
     {
         Application.Quit();
     }
-
-    public void AdrianoVsMarion()
-    {
-        SceneManager.LoadScene("AdrianoVsMarion");
-    }
-    public void AdrianoVsEdson()
-    {
-        SceneManager.LoadScene("AdrianoVsEdson");
-    }
-    public void AdrianoVsNanci()
-    {
-        SceneManager.LoadScene("AdrianoVsNanci");
-    }
-
     
-    public void MarionVsAdriano()
-    {
-        SceneManager.LoadScene("MarionVsAdriano");
-    }
-    public void MarionVsEdson()
-    {
-        SceneManager.LoadScene("MarionVsEdson");
-    }
-    public void MarionVsNanci()
-    {
-        SceneManager.LoadScene("MarionVsNanci");
-    }
-    
-    public void EdsonVsAdriano()
-    {
-        SceneManager.LoadScene("EdsonVsAdriano");
-    }
-    public void EdsonVsMarion()
-    {
-        SceneManager.LoadScene("EdsonVsMarion");
-    }
-    public void EdsonVsNanci()
-    {
-        SceneManager.LoadScene("EdsonVsNanci");
-    }
-    public void NanciVsAdriano()
-    {
-        SceneManager.LoadScene("NanciVsAdriano");
-    }
-    public void NanciVsMarion()
-    {
-        SceneManager.LoadScene("NanciVsMarion");
-    }
-    public void NanciVsEdson()
-    {
-        SceneManager.LoadScene("NanciVsEdson");
-    }
+public void Controles()
+{
+    ComJogar.SetActive(true);
+}
+
+public void ContarTres()
+{
+    Tres.SetActive(true);
+}
+
+public void ContarDois()
+{
+    Dois.SetActive(true);
+}
+
+public void ContarUm()
+{
+    Um.SetActive(true);
+}
+
+public void ContarLutem()
+{
+    Lutem.SetActive(true);
+}
+
+private IEnumerator CarregarCenaComAtraso(string NomeCena)
+{
+    yield return new WaitForSeconds(4.0f);
+
+    SceneManager.LoadScene(NomeCena);
+}
+public void AdrianoVsMarion()
+{
+    Controles();
+    Invoke("ContarUm", 3f);
+    Invoke("ContarDois", 3.3f);
+    Invoke("ContarTres", 3.6f);
+    Invoke("ContarLutem", 3.9f);
+    StartCoroutine(CarregarCenaComAtraso("AdrianoVsMarion"));
+}
+
+
+  public void AdrianoVsEdson()
+{
+    Controles();
+    Invoke("ContarUm", 3f);
+    Invoke("ContarDois", 3.3f);
+    Invoke("ContarTres", 3.6f);
+    Invoke("ContarLutem", 3.9f);
+    StartCoroutine(CarregarCenaComAtraso("AdrianoVsEdson"));
+}
+
+public void AdrianoVsNanci()
+{
+    Controles();
+    Invoke("ContarUm", 3f);
+    Invoke("ContarDois", 3.3f);
+    Invoke("ContarTres", 3.6f);
+    Invoke("ContarLutem", 3.9f);
+    StartCoroutine(CarregarCenaComAtraso("AdrianoVsNanci"));
+}
+
+public void MarionVsAdriano()
+{
+    Controles();
+    Invoke("ContarUm", 3f);
+    Invoke("ContarDois", 3.3f);
+    Invoke("ContarTres", 3.6f);
+    Invoke("ContarLutem", 3.9f);
+    StartCoroutine(CarregarCenaComAtraso("MarionVsAdriano"));
+}
+
+public void MarionVsEdson()
+{
+    Controles();
+    Invoke("ContarUm", 3f);
+    Invoke("ContarDois", 3.3f);
+    Invoke("ContarTres", 3.6f);
+    Invoke("ContarLutem", 3.9f);
+    StartCoroutine(CarregarCenaComAtraso("MarionVsEdson"));
+}
+
+public void MarionVsNanci()
+{
+    Controles();
+    Invoke("ContarUm", 3f);
+    Invoke("ContarDois", 3.3f);
+    Invoke("ContarTres", 3.6f);
+    Invoke("ContarLutem", 3.9f);
+    StartCoroutine(CarregarCenaComAtraso("MarionVsNanci"));
+}
+
+public void EdsonVsAdriano()
+{
+    Controles();
+    Invoke("ContarUm", 3f);
+    Invoke("ContarDois", 3.3f);
+    Invoke("ContarTres", 3.6f);
+    Invoke("ContarLutem", 3.9f);
+    StartCoroutine(CarregarCenaComAtraso("EdsonVsAdriano"));
+}
+
+public void EdsonVsMarion()
+{
+    Controles();
+    Invoke("ContarUm", 3f);
+    Invoke("ContarDois", 3.3f);
+    Invoke("ContarTres", 3.6f);
+    Invoke("ContarLutem", 3.9f);
+    StartCoroutine(CarregarCenaComAtraso("EdsonVsMarion"));
+}
+
+public void EdsonVsNanci()
+{
+    Controles();
+    Invoke("ContarUm", 3f);
+    Invoke("ContarDois", 3.3f);
+    Invoke("ContarTres", 3.6f);
+    Invoke("ContarLutem", 3.9f);
+    StartCoroutine(CarregarCenaComAtraso("EdsonVsNanci"));
+}
+
+public void NanciVsAdriano()
+{
+    Controles();
+    Invoke("ContarUm", 3f);
+    Invoke("ContarDois", 3.3f);
+    Invoke("ContarTres", 3.6f);
+    Invoke("ContarLutem", 3.9f);
+    StartCoroutine(CarregarCenaComAtraso("NanciVsAdriano"));
+}
+
+public void NanciVsMarion()
+{
+    Controles();
+    Invoke("ContarUm", 3f);
+    Invoke("ContarDois", 3.3f);
+    Invoke("ContarTres", 3.6f);
+    Invoke("ContarLutem", 3.9f);
+    StartCoroutine(CarregarCenaComAtraso("NanciVsMarion"));
+}
+
+public void NanciVsEdson()
+{
+    Controles();
+    Invoke("ContarUm", 3f);
+    Invoke("ContarDois", 3.3f);
+    Invoke("ContarTres", 3.6f);
+    Invoke("ContarLutem", 3.9f);
+    StartCoroutine(CarregarCenaComAtraso("NanciVsEdson"));
+}
+
 }
